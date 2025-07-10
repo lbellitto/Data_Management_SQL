@@ -1,0 +1,25 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore SQLite or other database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore backup files or temporary editor files
+*~
+*.swp
+*.bak
+*.tmp
+
+# VS Code settings (optional)
+.vscode/
+
+# Python or Jupyter files (if applicable)
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Mac OS metadata
+Icon?
