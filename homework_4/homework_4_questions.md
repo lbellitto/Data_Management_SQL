@@ -1,4 +1,4 @@
-![Homework Table](images/tables.png)
+![Homework Tables](images/tables.png)
 
 Question 1 
 Question 1.1 
